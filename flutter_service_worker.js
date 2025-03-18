@@ -156,7 +156,7 @@ const RESOURCES = {"flutter_bootstrap.js": "0464eaf8aa7722967528b5b7a2e1d444",
 // start.
 const CORE = ["main.dart.js",
 "index.html",
-"flutter_bootstrap.js",
+"./flutter_bootstrap.js",
 "assets/AssetManifest.bin.json",
 "assets/FontManifest.json"];
 
